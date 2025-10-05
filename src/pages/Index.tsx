@@ -131,7 +131,7 @@ const Index = () => {
         "Designed and implemented a custom 4-layer PCB for an 8-bit computer with CPU, ALU, memory, and I/O modules. Successfully tested and executed basic computing operations.",
       tags: ["PCB", "Hardware"],
       image: project8BitComputer,
-      link: "https://github.com/balajiragul/NeoLink-STM32",
+      link: "",
     },
     {
       title: "NeoLink STM32",
